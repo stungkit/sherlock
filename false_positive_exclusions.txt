@@ -1,7 +1,5 @@
 APClips
 Coders Rank
-Eintracht Frankfurt Forum
-Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
@@ -17,12 +15,10 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
+TryHackMe
 Weblate
-Wordnik
 YandexMusic
 kaskus
-minds
 opennet
 svidbook
 threads
