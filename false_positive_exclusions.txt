@@ -1,10 +1,12 @@
 APClips
 Coders Rank
+Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -15,7 +17,7 @@ RocketTube
 SlideShare
 Splice
 Spotify
-TryHackMe
+Topcoder
 Weblate
 YandexMusic
 kaskus
