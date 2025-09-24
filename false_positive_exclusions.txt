@@ -1,9 +1,9 @@
 APClips
 GNOME VCS
 Giphy
+Gravatar
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -11,6 +11,7 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+SlideShare
 Splice
 Spotify
 Topcoder
