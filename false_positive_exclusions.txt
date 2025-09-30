@@ -1,6 +1,6 @@
 APClips
 Coders Rank
-CyberDefenders
+Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 HackerEarth
@@ -13,6 +13,7 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+RuneScape
 SlideShare
 Splice
 Spotify
