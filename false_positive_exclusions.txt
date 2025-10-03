@@ -1,17 +1,19 @@
 APClips
 BoardGameGeek
+Coders Rank
+CyberDefenders
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
-HackerRank
 Heavy-R
-LushStories
-Mydramalist
+LessWrong
 PepperIT
 PocketStars
 Reddit
 Roblox
 RocketTube
+Slack
 SlideShare
 Splice
 Spotify
@@ -19,6 +21,7 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+nnRU
 opennet
 svidbook
 threads
