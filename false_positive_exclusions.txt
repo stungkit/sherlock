@@ -1,15 +1,16 @@
 APClips
-BoardGameGeek
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
+Gravatar
 HackerEarth
 Heavy-R
-LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Topcoder
@@ -18,3 +19,4 @@ YandexMusic
 kaskus
 opennet
 svidbook
+xHamster
