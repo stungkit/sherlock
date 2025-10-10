@@ -1,6 +1,5 @@
 APClips
-Cults3D
-DeviantArt
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
