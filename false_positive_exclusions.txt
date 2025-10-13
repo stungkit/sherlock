@@ -1,22 +1,23 @@
 APClips
+Carbonmade
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
+LiveJournal
 LushStories
 PepperIT
 PocketStars
 Reddit
 RocketTube
 RuneScape
+Slack
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
-eintracht
-opennet
 svidbook
-xHamster
