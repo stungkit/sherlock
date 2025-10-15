@@ -3,8 +3,8 @@ Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
+HackerRank
 Heavy-R
-LessWrong
 PocketStars
 Reddit
 RocketTube
@@ -14,5 +14,5 @@ Topcoder
 Weblate
 YandexMusic
 opennet
+programming.dev
 svidbook
-xHamster
