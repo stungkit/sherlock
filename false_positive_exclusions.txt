@@ -1,17 +1,16 @@
 APClips
 Coders Rank
+Cults3D
 GNOME VCS
 Giphy
-Heavy-R
 LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
