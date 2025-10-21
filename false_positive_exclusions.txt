@@ -1,5 +1,7 @@
 APClips
 BreachSta.rs Forum
+Carbonmade
+Coders Rank
 GNOME VCS
 Giphy
 LushStories
@@ -12,5 +14,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-threads
-xHamster
