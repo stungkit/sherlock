@@ -1,6 +1,5 @@
 APClips
 Coders Rank
-Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 LushStories
@@ -11,6 +10,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
-eintracht
+nnRU
 opennet
 svidbook
