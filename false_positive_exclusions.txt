@@ -1,11 +1,11 @@
 APClips
-Coders Rank
+BoardGameGeek
 DeviantArt
 GNOME VCS
 Giphy
+Gravatar
 LushStories
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
@@ -13,7 +13,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-nnRU
 opennet
 svidbook
-xHamster
