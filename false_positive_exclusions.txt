@@ -1,20 +1,18 @@
 APClips
-CGTrader
-Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-GitHub
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Trovo
 Weblate
-WordPress
 YandexMusic
 opennet
+phpRU
 svidbook
-xHamster
