@@ -1,9 +1,10 @@
 APClips
-Archive of Our Own
+Archive.org
+BoardGameGeek
 DeviantArt
 GNOME VCS
 Giphy
-LushStories
+Itch.io
 PocketStars
 Reddit
 RocketTube
@@ -12,7 +13,5 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-nnRU
-opennet
 phpRU
 svidbook
