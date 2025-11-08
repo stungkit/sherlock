@@ -1,10 +1,12 @@
 APClips
 Archive.org
-BoardGameGeek
+Coders Rank
 DeviantArt
+Freelancer
 GNOME VCS
 Giphy
 Itch.io
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -15,3 +17,4 @@ Weblate
 YandexMusic
 phpRU
 svidbook
+xHamster
