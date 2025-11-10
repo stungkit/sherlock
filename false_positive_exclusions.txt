@@ -1,18 +1,14 @@
 APClips
 Archive.org
-CGTrader
-DeviantArt
 GNOME VCS
 Giphy
 LushStories
 PocketStars
 Reddit
 RocketTube
+Slashdot
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
-opennet
-phpRU
 svidbook
