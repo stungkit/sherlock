@@ -1,12 +1,9 @@
 APClips
 Archive.org
-CGTrader
 Coders Rank
 DeviantArt
-GNOME VCS
 Giphy
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -17,3 +14,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
