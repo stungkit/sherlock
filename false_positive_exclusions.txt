@@ -1,12 +1,13 @@
 APClips
 Archive.org
-BoardGameGeek
+Coders Rank
 DeviantArt
+Freelancer
 GNOME VCS
 Giphy
 LushStories
+Minecraft
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
@@ -14,5 +15,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-phpRU
+opennet
 svidbook
+xHamster
