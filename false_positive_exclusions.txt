@@ -1,11 +1,13 @@
 APClips
 Archive.org
-GNOME VCS
+Coders Rank
+Freelancer
 Giphy
 LushStories
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Weblate
