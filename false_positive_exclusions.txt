@@ -1,16 +1,18 @@
 APClips
-Academia.edu
 Archive.org
-Freelancer
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Itch.io
 LushStories
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
