@@ -1,8 +1,7 @@
 APClips
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
-Coders Rank
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -11,10 +10,10 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-SpeakerDeck
+Slack
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
