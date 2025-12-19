@@ -2,14 +2,11 @@ APClips
 Archive.org
 Code Snippet Wiki
 Coders Rank
-DEV Community
 DeviantArt
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
 LushStories
 PocketStars
 Reddit
@@ -22,3 +19,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
