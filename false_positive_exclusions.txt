@@ -1,6 +1,4 @@
 APClips
-Archive.org
-Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -10,6 +8,7 @@ Giphy
 Hubski
 LushStories
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Scribd
@@ -20,4 +19,6 @@ Trovo
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
+xHamster
