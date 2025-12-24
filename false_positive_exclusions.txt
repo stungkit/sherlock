@@ -16,6 +16,8 @@ SlideShare
 Splice
 Spotify
 Weblate
+YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
