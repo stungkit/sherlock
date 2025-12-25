@@ -20,4 +20,3 @@ YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
