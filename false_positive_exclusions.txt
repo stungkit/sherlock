@@ -1,13 +1,16 @@
 APClips
 Archive.org
+Blogger
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gumroad
+HackerRank
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -15,8 +18,9 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-opennet
 phpRU
 svidbook
+xHamster
