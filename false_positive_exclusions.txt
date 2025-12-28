@@ -1,14 +1,11 @@
 APClips
 Archive.org
-Blogger
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gumroad
-HackerRank
 Hubski
 LushStories
 PocketStars
@@ -23,4 +20,3 @@ Weblate
 YandexMusic
 phpRU
 svidbook
-xHamster
