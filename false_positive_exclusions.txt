@@ -1,5 +1,4 @@
 APClips
-Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -17,6 +16,6 @@ Splice
 Spotify
 Trovo
 Weblate
-YandexMusic
+opennet
 phpRU
 svidbook
