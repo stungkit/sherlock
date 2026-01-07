@@ -4,11 +4,10 @@ Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
-GeeksforGeeks
 Giphy
 Hubski
+LiveJournal
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -21,7 +20,7 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-threads
 xHamster
