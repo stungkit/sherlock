@@ -1,6 +1,5 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -8,13 +7,13 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
 LushStories
 Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
