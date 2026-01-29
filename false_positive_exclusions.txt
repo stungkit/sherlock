@@ -1,13 +1,16 @@
 APClips
 Archive.org
+Carbonmade
 Code Snippet Wiki
-Fandom
+GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
+ImgUp.cz
+Itch.io
 LushStories
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -19,6 +22,5 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
