@@ -1,8 +1,8 @@
 APClips
 Archive.org
-Chess
 Code Snippet Wiki
 DeviantArt
+Dribbble
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -22,6 +22,6 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
