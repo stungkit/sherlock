@@ -1,12 +1,12 @@
 APClips
 Archive.org
-Blogger
+Audiojungle
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
 Minecraft
@@ -19,7 +19,7 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
+TryHackMe
 Weblate
 YandexMusic
 mercadolivre
