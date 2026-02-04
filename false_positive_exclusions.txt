@@ -1,15 +1,13 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -19,6 +17,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
