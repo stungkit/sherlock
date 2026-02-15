@@ -1,22 +1,20 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Cults3D
+Cracked Forum
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
 LushStories
-OurDJTalk
+Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -24,8 +22,9 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-YandexMusic
+Wikidot
 mercadolivre
+opennet
 phpRU
 svidbook
 xHamster
