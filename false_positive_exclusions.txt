@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Cracked Forum
 DeviantArt
 Fandom
 GNOME VCS
@@ -22,9 +21,8 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wikidot
+YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
 xHamster
