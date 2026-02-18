@@ -1,26 +1,22 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Cults3D
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LessWrong
 Minecraft
-OurDJTalk
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
