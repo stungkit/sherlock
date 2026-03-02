@@ -1,10 +1,11 @@
 APClips
 Archive.org
-Audiojungle
 Codolio
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -20,6 +21,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
