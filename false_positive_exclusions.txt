@@ -1,20 +1,19 @@
 APClips
 Archive.org
 Codolio
-DeviantArt
+Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Realmeye
 Reddit
-ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -22,9 +21,9 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
 opennet
 phpRU
