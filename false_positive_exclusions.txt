@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Carbonmade
 Codolio
 GNOME VCS
 GeeksforGeeks
@@ -8,6 +9,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Pornhub
