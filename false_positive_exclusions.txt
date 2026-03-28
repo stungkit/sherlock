@@ -1,15 +1,14 @@
 APClips
 Archive.org
 Codolio
+DeviantArt
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
-LessWrong
-LushStories
 Patched
 PocketStars
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -20,6 +19,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
