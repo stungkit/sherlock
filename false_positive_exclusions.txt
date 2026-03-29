@@ -2,11 +2,13 @@ APClips
 Archive.org
 Codolio
 DeviantArt
+DigitalSpy
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
+LemmyWorld
+LessWrong
 Patched
 PocketStars
 Rarible
