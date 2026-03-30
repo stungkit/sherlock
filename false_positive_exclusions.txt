@@ -5,12 +5,14 @@ DeviantArt
 DigitalSpy
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
-LemmyWorld
 LessWrong
+LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,7 +27,9 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
