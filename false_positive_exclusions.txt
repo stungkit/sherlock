@@ -1,11 +1,12 @@
+7Cups
 APClips
 Archive.org
+Carbonmade
 Codolio
 DeviantArt
-DigitalSpy
+Discord.bio
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -29,6 +30,7 @@ Weblate
 YandexMusic
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
