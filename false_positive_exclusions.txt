@@ -1,7 +1,6 @@
 7Cups
 APClips
 Archive.org
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -30,7 +29,6 @@ Weblate
 YandexMusic
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
