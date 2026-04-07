@@ -1,7 +1,7 @@
 7Cups
 APClips
-Archive of Our Own
 Archive.org
+Bandcamp
 Codolio
 DeviantArt
 Discord.bio
@@ -9,13 +9,10 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,4 +32,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
