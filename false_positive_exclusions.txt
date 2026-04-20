@@ -11,10 +11,10 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
-Motherless
+LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,3 +36,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
