@@ -1,5 +1,6 @@
 7Cups
 APClips
+Airliners
 Apple Discussions
 Archive.org
 Bandcamp
@@ -8,9 +9,9 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Patched
@@ -27,12 +28,13 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
-xHamster
