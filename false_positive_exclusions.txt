@@ -9,13 +9,13 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LessWrong
 LushStories
 Patched
 Pornhub
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -34,7 +34,7 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
+xHamster
