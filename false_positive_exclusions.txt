@@ -4,9 +4,7 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Codolio
-Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -32,7 +30,6 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
