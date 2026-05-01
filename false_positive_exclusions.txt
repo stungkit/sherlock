@@ -6,16 +6,16 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-LushStories
+Itch.io
 Minecraft
+Outgress
 Patched
 Pornhub
 Rarible
@@ -28,10 +28,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
+WordPress
 YandexMusic
 dailykos
 interpals
@@ -39,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
