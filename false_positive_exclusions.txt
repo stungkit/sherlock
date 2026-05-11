@@ -9,10 +9,11 @@ DeviantArt
 Discord.bio
 Envato Forum
 Giphy
-Gumroad
 Hashnode
 Hubski
+Itch.io
 LessWrong
+Minecraft
 Motherless
 Patched
 Pornhub
@@ -38,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
