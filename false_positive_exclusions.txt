@@ -5,13 +5,12 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 Giphy
-Hashnode
+Heavy-R
 Hubski
-Minecraft
+LessWrong
 Motherless
 Patched
 Pornhub
@@ -25,11 +24,11 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
