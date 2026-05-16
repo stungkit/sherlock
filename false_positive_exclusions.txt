@@ -5,13 +5,13 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 Giphy
-Heavy-R
+Hashnode
 Hubski
 LessWrong
-Motherless
 Patched
 Pornhub
 Rarible
@@ -24,6 +24,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
