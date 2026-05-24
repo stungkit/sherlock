@@ -13,7 +13,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LiveJournal
 Patched
 Pornhub
 Rarible
@@ -40,4 +40,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
