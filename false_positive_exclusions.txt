@@ -7,13 +7,11 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
 Minecraft
 Patched
 Pornhub
@@ -41,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
