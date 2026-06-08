@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,6 +16,7 @@ Hubski
 LessWrong
 Minecraft
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -38,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
