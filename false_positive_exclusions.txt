@@ -8,7 +8,6 @@ BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -16,8 +15,8 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -31,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
