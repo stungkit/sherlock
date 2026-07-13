@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -16,11 +15,9 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,6 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -38,10 +36,9 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-igromania
+eintracht
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
