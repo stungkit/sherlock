@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 BreachSta.rs Forum
 Codolio
 DeviantArt
@@ -18,19 +17,22 @@ Houzz
 Hubski
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
+Strava
 Trovo
 TryHackMe
 Velomania
