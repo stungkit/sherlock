@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -14,6 +15,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
