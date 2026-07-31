@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -12,10 +13,12 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
 Instapaper
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -24,8 +27,6 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
-Scribd
 Shelf
 SlideShare
 Splice
