@@ -8,7 +8,6 @@ Bandcamp
 Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -20,7 +19,6 @@ Houzz
 Hubski
 Instapaper
 LessWrong
-Minecraft
 Odysee
 OurDJTalk
 PCGamer
@@ -30,12 +28,15 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trakt
 Trovo
 TryHackMe
 Velomania
