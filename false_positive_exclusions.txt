@@ -2,14 +2,15 @@
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
 Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -20,6 +21,7 @@ Hubski
 Instapaper
 Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -40,9 +42,11 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
