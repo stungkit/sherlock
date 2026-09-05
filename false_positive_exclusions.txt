@@ -6,8 +6,8 @@ Archive.org
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,9 +18,9 @@ Houzz
 Hubski
 Instapaper
 ObservableHQ
-OurDJTalk
+Odysee
 PCGamer
-Rarible
+Pornhub
 Realmeye
 Reddit
 ReverbNation
@@ -45,4 +45,5 @@ interpals
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
