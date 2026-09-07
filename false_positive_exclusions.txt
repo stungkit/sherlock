@@ -20,8 +20,10 @@ Hubski
 Instapaper
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -32,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -48,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
