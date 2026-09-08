@@ -20,10 +20,8 @@ Hubski
 Instapaper
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
-Pychess
 Rarible
 Realmeye
 Reddit
@@ -51,3 +49,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
