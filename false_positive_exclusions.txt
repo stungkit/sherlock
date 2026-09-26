@@ -18,8 +18,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
-Minecraft
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -34,9 +35,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
+Valorant Forums
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
