@@ -10,13 +10,13 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-Gravatar
 HackerNews
 Hashnode
 Houzz
@@ -52,6 +52,7 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 social.tchncs.de
 svidbook
 xHamster
