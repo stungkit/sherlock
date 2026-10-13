@@ -5,6 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
@@ -26,7 +28,6 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pastebin
 Pornhub
 Rarible
 Realmeye
@@ -46,7 +47,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-fl
 hunting
 interpals
 mercadolivre
