@@ -6,8 +6,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-BoardGameGeek
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -37,8 +35,10 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+Snapchat
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -54,3 +54,5 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+threads
+xHamster
