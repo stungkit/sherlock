@@ -1,13 +1,10 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -39,11 +36,13 @@ TryHackMe
 Velomania
 Vero
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
