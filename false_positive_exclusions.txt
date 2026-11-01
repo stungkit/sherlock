@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -21,10 +22,11 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -49,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
