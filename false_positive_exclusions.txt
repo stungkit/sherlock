@@ -4,12 +4,11 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
+CyberDefenders
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,13 +20,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -39,6 +37,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
