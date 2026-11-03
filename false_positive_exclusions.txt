@@ -1,17 +1,15 @@
-APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
-CyberDefenders
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -20,12 +18,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
