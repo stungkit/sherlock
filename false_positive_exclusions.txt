@@ -1,25 +1,19 @@
+APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
-Bandcamp
-BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Envato Forum
-Flipboard
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
-Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -42,6 +36,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
