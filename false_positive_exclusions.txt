@@ -3,13 +3,11 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Flipboard
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -29,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trakt
 TryHackMe
 Velomania
@@ -45,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
