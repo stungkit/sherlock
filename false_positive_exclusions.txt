@@ -2,6 +2,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -13,6 +14,8 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -24,8 +27,10 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+Snapchat
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
