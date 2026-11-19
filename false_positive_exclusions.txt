@@ -1,8 +1,8 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Championat
 Chatujme.cz
 Codolio
 DeviantArt
@@ -13,6 +13,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 Linktree
 ObservableHQ
 Odysee
@@ -24,10 +25,10 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
