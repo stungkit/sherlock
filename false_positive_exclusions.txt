@@ -16,6 +16,7 @@ Instapaper
 Linktree
 Minecraft
 ObservableHQ
+Odysee
 OurDJTalk
 PCGamer
 Rarible
